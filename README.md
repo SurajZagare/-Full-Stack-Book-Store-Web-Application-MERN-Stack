@@ -13,6 +13,17 @@ A fully responsive, full-stack **Book Store** web application built using the **
 - **API Architecture**: RESTful APIs  
 - **Deployment**: Node.js (Local or Cloud Environment)
 
+## 📸 Screenshots
+
+> Add screenshots of the homepage, book listing, book detail, and admin/book edit pages (optional).
+> ![Live Demo Screenshot](https://github.com/SurajZagare/-Full-Stack-Book-Store-Web-Application-MERN-Stack/blob/97e0ef74a49e3ab39ef10ad3a0ae858470a5b2fa/Frontend/Screenshot%202025-06-22%20142427.png)
+>
+> ![Live Demo Screenshot](https://github.com/SurajZagare/-Full-Stack-Book-Store-Web-Application-MERN-Stack/blob/60b7f8f84a187ee38cd4d35cef607d8e74fcf02d/Frontend/Screenshot%202025-06-22%20142514.png)
+
+![Live Demo Screenshot](https://github.com/SurajZagare/-Full-Stack-Book-Store-Web-Application-MERN-Stack/blob/60b7f8f84a187ee38cd4d35cef607d8e74fcf02d/Frontend/Screenshot%202025-06-22%20142553.png)
+
+
+
 ---
 
 ## ✨ Features
@@ -83,16 +94,6 @@ npm start
 | DELETE | /api/books/\:id | Delete a book     |
 
 ---
-
-## 📸 Screenshots
-
-> Add screenshots of the homepage, book listing, book detail, and admin/book edit pages (optional).
-> ![Live Demo Screenshot](https://github.com/SurajZagare/-Full-Stack-Book-Store-Web-Application-MERN-Stack/blob/97e0ef74a49e3ab39ef10ad3a0ae858470a5b2fa/Frontend/Screenshot%202025-06-22%20142427.png)
->
-> ![Live Demo Screenshot](https://github.com/SurajZagare/-Full-Stack-Book-Store-Web-Application-MERN-Stack/blob/60b7f8f84a187ee38cd4d35cef607d8e74fcf02d/Frontend/Screenshot%202025-06-22%20142514.png)
-
-![Live Demo Screenshot](https://github.com/SurajZagare/-Full-Stack-Book-Store-Web-Application-MERN-Stack/blob/60b7f8f84a187ee38cd4d35cef607d8e74fcf02d/Frontend/Screenshot%202025-06-22%20142553.png)
-
 
 
 ---
